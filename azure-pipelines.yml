@@ -6,7 +6,8 @@
 trigger:
 - main
 
-pool:testagentpool
+pool:
+name: testagentpool
   
   
 steps:
